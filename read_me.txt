@@ -9,4 +9,6 @@ To access the API, add the /routes to the end of the url.
 The sqlite files can be recreated by running the create database function in each the user
 and radio modules.
 
+The radio and user test files contain the unit testing used to develop them.
+
 - Connor

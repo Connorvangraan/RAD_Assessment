@@ -3,7 +3,7 @@ from user_module import User
 from flask import *
 
 
-# Initialise the Flask API hosting ###
+# Initialise the Flask module
 app = Flask(__name__)
 
 
